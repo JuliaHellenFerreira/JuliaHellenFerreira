@@ -1,1 +1,1 @@
-![Julia](/Git-Julia.png)
+![](/Git-Julia.png)
